@@ -4,4 +4,4 @@ Used VADER to analyze few Amazon Reviews as a practise of NLP AND applied Sentim
 
 # Conclusion
 
-This tells us that VADER correctly identified an Amazon review as "positive" or "negative" roughly 71% of the time.
+ VADER correctly identified an Amazon review as "positive" or "negative" roughly 71% of the time.
